@@ -1,0 +1,190 @@
+{
+  "validacao": {
+    "accuracy": 0.9615384615384616,
+    "macro_f1": 0.9606481481481483,
+    "classes": {
+      "ATRASO": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0
+      },
+      "ELOGIO": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0
+      },
+      "ITEM_FALTANTE": {
+        "precision": 1.0,
+        "recall": 0.7777777777777778,
+        "f1-score": 0.875
+      },
+      "PAGAMENTO": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0
+      },
+      "PEDIDO_INCORRETO": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0
+      },
+      "QUALIDADE": {
+        "precision": 0.8,
+        "recall": 1.0,
+        "f1-score": 0.8888888888888888
+      }
+    },
+    "labels": [
+      "ATRASO",
+      "ELOGIO",
+      "ITEM_FALTANTE",
+      "PAGAMENTO",
+      "PEDIDO_INCORRETO",
+      "QUALIDADE"
+    ],
+    "matriz_confusao": [
+      [
+        9,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        8,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        7,
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        0,
+        0,
+        9,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        9,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        8
+      ]
+    ]
+  },
+  "teste": {
+    "accuracy": 0.9622641509433962,
+    "macro_f1": 0.9625,
+    "classes": {
+      "ATRASO": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0
+      },
+      "ELOGIO": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0
+      },
+      "ITEM_FALTANTE": {
+        "precision": 1.0,
+        "recall": 0.7777777777777778,
+        "f1-score": 0.875
+      },
+      "PAGAMENTO": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0
+      },
+      "PEDIDO_INCORRETO": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0
+      },
+      "QUALIDADE": {
+        "precision": 0.8181818181818182,
+        "recall": 1.0,
+        "f1-score": 0.9
+      }
+    },
+    "labels": [
+      "ATRASO",
+      "ELOGIO",
+      "ITEM_FALTANTE",
+      "PAGAMENTO",
+      "PEDIDO_INCORRETO",
+      "QUALIDADE"
+    ],
+    "matriz_confusao": [
+      [
+        9,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        9,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        7,
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        0,
+        0,
+        8,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        9,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        9
+      ]
+    ]
+  }
+}

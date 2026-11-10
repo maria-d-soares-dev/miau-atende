@@ -1,0 +1,361 @@
+mensagem,categoria
+"gente, escolhi sem cebola e veio com cebola",PEDIDO_INCORRETO
+"gente, pedi vegetariano e chegou com carne",PEDIDO_INCORRETO
+"Oi, o refrigerante não veio, por favor.",ITEM_FALTANTE
+o pedido veio todo revirado alguém resolve?,QUALIDADE
+Boa noite. o pedido veio todo revirado. Obrigada.,QUALIDADE
+"No aplicativo consta entregue, mas cobraram uma taxa diferente.",PAGAMENTO
+o entregador foi muito educado e isso me deixou bem chateada.,ELOGIO
+"não foi cobrado errado, o problema é que o pedido não apareceu e isso me deixou bem chateada.",ATRASO
+"No aplicativo consta entregue, mas veio tudo certo e quentinho.",ELOGIO
+recebi só parte do pedido :(,ITEM_FALTANTE
+"aff a comida estava boa, só esqueceram minha bebida",ITEM_FALTANTE
+recebi pizza de outro sabor.,PEDIDO_INCORRETO
+"Oi, cadê o suco que pedi, por favor.",ITEM_FALTANTE
+"a comida estava boa, só esqueceram minha bebida",ITEM_FALTANTE
+"gente, chegou rápido, mas estava gelado",QUALIDADE
+"aff chegou rápido, mas estava gelado",QUALIDADE
+a carne parece crua e isso me deixou bem chateada.,QUALIDADE
+"No aplicativo consta entregue, mas a comida estava boa, só esqueceram minha bebida.",ITEM_FALTANTE
+"Boa noite. não tenho reclamações, gostei bastante. Obrigada.",ELOGIO
+esqueceram minhas batatas :(,ITEM_FALTANTE
+"gente, nao enviaram a bebida",ITEM_FALTANTE
+    Boa noite. a refeição veio com gosto estranho. Obrigada.   ,QUALIDADE
+"No aplicativo consta entregue, mas a carne parece crua.",QUALIDADE
+"Oi, o pedido veio todo revirado, por favor.",QUALIDADE
+"    No aplicativo consta entregue, mas faltou a sobremesa.   ",ITEM_FALTANTE
+"Oi, a embalagem vazou, por favor.",QUALIDADE
+"Oi, não faltou nada, porém a qualidade estava péssima, por favor.",QUALIDADE
+não consigo finalizar o pix alguém resolve?,PAGAMENTO
+a comida chegou fria.,QUALIDADE
+"Oi, o cupom não foi aplicado, por favor.",PAGAMENTO
+"demorou um pouco, mas valeu a pena porque estava ótimo :(",ELOGIO
+era para chegar às oito e isso me deixou bem chateada.,ATRASO
+recebi pizza de outro sabor :(,PEDIDO_INCORRETO
+aff nao pedi esse prato,PEDIDO_INCORRETO
+meu cartão recusou mas houve cobrança!!!,PAGAMENTO
+Só para avisar: o cupom nao foi aplicado.,PAGAMENTO
+entrega excelente e isso me deixou bem chateada.,ELOGIO
+cadê meu pedido.,ATRASO
+Só para avisar: cadê o suco que pedi.,ITEM_FALTANTE
+o lanche veio queimado,QUALIDADE
+"    No aplicativo consta entregue, mas meu cartão recusou mas houve cobrança.   ",PAGAMENTO
+    Preciso de ajuda porque meu pedido veio trocado.   ,PEDIDO_INCORRETO
+"Boa noite. não foi cobrado errado, o problema é que o pedido não apareceu. Obrigada.",ATRASO
+o valor foi cobrado duas vezes alguém resolve?,PAGAMENTO
+"    gente, o produto chegou amassado   ",QUALIDADE
+já passou uma hora e nada do pedido e isso me deixou bem chateada.,ATRASO
+Só para avisar: a embalagem vazou.,QUALIDADE
+O ENDEREÇO ESTÁ CERTO MAS A SACOLA É ERRADA,PEDIDO_INCORRETO
+    aff o arroz está duro   ,QUALIDADE
+meu pedido ainda não chegou :(,ATRASO
+houve débito sem confirmação do pedido e isso me deixou bem chateada.,PAGAMENTO
+Boa noite. veio sem o molho. Obrigada.,ITEM_FALTANTE
+"Oi, o estorno ainda não caiu, por favor.",PAGAMENTO
+veio sem o molho alguém resolve?,ITEM_FALTANTE
+aff faltou a sobremesa,ITEM_FALTANTE
+"demorou bastante, mas pelo menos veio tudo certo :(",ATRASO
+"No aplicativo consta entregue, mas o arroz está duro.",QUALIDADE
+Meu pedido de hoje: recebi só parte do pedido.,ITEM_FALTANTE
+"Oi, solicitei dois itens e vieram outros, por favor.",PEDIDO_INCORRETO
+"Oi, a refeição veio com gosto estranho, por favor.",QUALIDADE
+"Oi, pedi tamanho grande e chegou pequeno, por favor.",PEDIDO_INCORRETO
+"Oi, veio sem o molho, por favor.",ITEM_FALTANTE
+Meu pedido de hoje: chegou rápido e estava maravilhoso.,ELOGIO
+"Oi, pedido perfeito, muito obrigada, por favor.",ELOGIO
+faltou a sobremesa!!!,ITEM_FALTANTE
+VEIO TUDO FECHADO MAS FALTOU O ACOMPANHAMENTO,ITEM_FALTANTE
+mandaram o lanche de outra pessoa!!!,PEDIDO_INCORRETO
+    aff a previsão mudou três vezes   ,ATRASO
+veio sem o molho.,ITEM_FALTANTE
+"Oi, estou esperando desde cedo, por favor.",ATRASO
+o cupom nao foi aplicado.,PAGAMENTO
+Só para avisar: o pedido veio todo revirado.,QUALIDADE
+melhor pedido da semana.,ELOGIO
+aff o total está incorreto,PAGAMENTO
+"Oi, meu nome está na embalagem, mas o conteúdo não é meu, por favor.",PEDIDO_INCORRETO
+"gente, cobraram uma taxa diferente",PAGAMENTO
+adorei o atendimento,ELOGIO
+    aff cobraram uma taxa diferente   ,PAGAMENTO
+aff meu cartão recusou mas houve cobrança,PAGAMENTO
+Só para avisar: o valor foi cobrado duas vezes.,PAGAMENTO
+recebi só parte do pedido.,ITEM_FALTANTE
+"a cobrança não está errada, mas o desconto sumiu",PAGAMENTO
+"gente, o arroz está duro",QUALIDADE
+o entregador foi muito educado!!!,ELOGIO
+Preciso de ajuda porque pedi tamanho grande e chegou pequeno.,PEDIDO_INCORRETO
+Preciso de ajuda porque solicitei dois itens e vieram outros.,PEDIDO_INCORRETO
+a comida chegou fria alguém resolve?,QUALIDADE
+mandaram o lanche de outra pessoa,PEDIDO_INCORRETO
+"Oi, o entregador está demorando demais, por favor.",ATRASO
+o endereço está certo mas a sacola é errada e isso me deixou bem chateada.,PEDIDO_INCORRETO
+    aff esqueceram minhas batatas   ,ITEM_FALTANTE
+o arroz está duro,QUALIDADE
+cadê o suco que pedi alguém resolve?,ITEM_FALTANTE
+Só para avisar: chegou rápido e estava maravilhoso.,ELOGIO
+o refrigerante nao veio e isso me deixou bem chateada.,ITEM_FALTANTE
+O ESTORNO AINDA NÃO CAIU,PAGAMENTO
+ESTOU ESPERANDO DESDE CEDO,ATRASO
+Meu pedido de hoje: cobraram uma taxa diferente.,PAGAMENTO
+Só para avisar: solicitei dois itens e vieram outros.,PEDIDO_INCORRETO
+cobraram uma taxa diferente :(,PAGAMENTO
+o cupom não foi aplicado alguém resolve?,PAGAMENTO
+Meu pedido de hoje: recebi pizza de outro sabor.,PEDIDO_INCORRETO
+não pedi esse prato,PEDIDO_INCORRETO
+"Meu pedido de hoje: chegou rápido, mas estava gelado.",QUALIDADE
+a carne parece crua!!!,QUALIDADE
+Preciso de ajuda porque o refrigerante não veio.,ITEM_FALTANTE
+"Oi, meu pedido veio trocado, por favor.",PEDIDO_INCORRETO
+Preciso de ajuda porque cadê meu pedido.,ATRASO
+"Meu pedido de hoje: demorou um pouco, mas valeu a pena porque estava ótimo.",ELOGIO
+aff mandaram o lanche de outra pessoa,PEDIDO_INCORRETO
+o entregador está demorando demais.,ATRASO
+"Oi, melhor pedido da semana, por favor.",ELOGIO
+"NÃO FALTOU NADA, PORÉM A QUALIDADE ESTAVA PÉSSIMA",QUALIDADE
+Preciso de ajuda porque estou esperando desde cedo.,ATRASO
+paguei e o aplicativo pede pagamento novamente :(,PAGAMENTO
+o pedido veio todo revirado.,QUALIDADE
+veio tudo certo e quentinho,ELOGIO
+a refeição veio com gosto estranho!!!,QUALIDADE
+estou esperando desde cedo e isso me deixou bem chateada.,ATRASO
+O REFRIGERANTE NÃO VEIO,ITEM_FALTANTE
+"NÃO TENHO RECLAMAÇÕES, GOSTEI BASTANTE",ELOGIO
+"Oi, não foi cobrado errado, o problema é que o pedido não apareceu, por favor.",ATRASO
+"gente, chegou rápido e estava maravilhoso",ELOGIO
+escolhi sem cebola e veio com cebola,PEDIDO_INCORRETO
+Preciso de ajuda porque o pedido veio todo revirado.,QUALIDADE
+"No aplicativo consta entregue, mas a previsão mudou três vezes.",ATRASO
+Meu pedido de hoje: nao pedi esse prato.,PEDIDO_INCORRETO
+"No aplicativo consta entregue, mas chegou rápido, mas estava gelado.",QUALIDADE
+o entregador está demorando demais alguém resolve?,ATRASO
+aff já passou uma hora e nada do pedido,ATRASO
+veio tudo fechado mas faltou o acompanhamento e isso me deixou bem chateada.,ITEM_FALTANTE
+    aff escolhi sem cebola e veio com cebola   ,PEDIDO_INCORRETO
+Meu pedido de hoje: esqueceram minhas batatas.,ITEM_FALTANTE
+PEDI TAMANHO GRANDE E CHEGOU PEQUENO,PEDIDO_INCORRETO
+não consigo finalizar o pix.,PAGAMENTO
+Boa noite. não consigo finalizar o pix. Obrigada.,PAGAMENTO
+Só para avisar: meu pedido veio trocado.,PEDIDO_INCORRETO
+"Oi, não consigo finalizar o pix, por favor.",PAGAMENTO
+não enviaram a bebida alguém resolve?,ITEM_FALTANTE
+"Preciso de ajuda porque meu nome está na embalagem, mas o conteúdo não é meu.",PEDIDO_INCORRETO
+meu pedido veio trocado.,PEDIDO_INCORRETO
+Boa noite. veio tudo fechado mas faltou o acompanhamento. Obrigada.,ITEM_FALTANTE
+a previsão mudou três vezes :(,ATRASO
+"No aplicativo consta entregue, mas o endereço está certo mas a sacola é errada.",PEDIDO_INCORRETO
+aff o endereço está certo mas a sacola é errada,PEDIDO_INCORRETO
+adorei o atendimento e isso me deixou bem chateada.,ELOGIO
+"NÃO FOI COBRADO ERRADO, O PROBLEMA É QUE O PEDIDO NÃO APARECEU",ATRASO
+era para chegar às oito!!!,ATRASO
+Meu pedido de hoje: meu pedido ainda nao chegou.,ATRASO
+ERA PARA CHEGAR ÀS OITO,ATRASO
+"No aplicativo consta entregue, mas o total está incorreto.",PAGAMENTO
+"No aplicativo consta entregue, mas demorou um pouco, mas valeu a pena porque estava ótimo.",ELOGIO
+"gente, meu pedido ainda nao chegou",ATRASO
+faltou a sobremesa e isso me deixou bem chateada.,ITEM_FALTANTE
+o produto chegou amassado.,QUALIDADE
+"aff demorou um pouco, mas valeu a pena porque estava ótimo",ELOGIO
+"No aplicativo consta entregue, mas o entregador foi muito educado.",ELOGIO
+Só para avisar: o entregador está demorando demais.,ATRASO
+Meu pedido de hoje: nao enviaram a bebida.,ITEM_FALTANTE
+pedi vegetariano e chegou com carne :(,PEDIDO_INCORRETO
+paguei e o aplicativo pede pagamento novamente alguém resolve?,PAGAMENTO
+Meu pedido de hoje: o produto chegou amassado.,QUALIDADE
+não enviaram a bebida.,ITEM_FALTANTE
+    Boa noite. entrega excelente. Obrigada.   ,ELOGIO
+Preciso de ajuda porque não consigo finalizar o pix.,PAGAMENTO
+"chegou rápido, mas estava gelado",QUALIDADE
+"Preciso de ajuda porque não foi cobrado errado, o problema é que o pedido não apareceu.",ATRASO
+O TOTAL ESTÁ INCORRETO,PAGAMENTO
+Meu pedido de hoje: o arroz está duro.,QUALIDADE
+    Preciso de ajuda porque o cupom não foi aplicado.   ,PAGAMENTO
+"gente, a comida chegou fria",QUALIDADE
+"    No aplicativo consta entregue, mas já passou uma hora e nada do pedido.   ",ATRASO
+adorei o atendimento!!!,ELOGIO
+o endereço ta certo mas a sacola é errada!!!,PEDIDO_INCORRETO
+"No aplicativo consta entregue, mas escolhi sem cebola e veio com cebola.",PEDIDO_INCORRETO
+parabéns pelo capricho :(,ELOGIO
+cadê meu pedido alguém resolve?,ATRASO
+"Só para avisar: pedido perfeito, muito obrigada.",ELOGIO
+"Oi, cadê meu pedido, por favor.",ATRASO
+Boa noite. meu pedido veio trocado. Obrigada.,PEDIDO_INCORRETO
+pedido parado no aplicativo.,ATRASO
+    meu pedido aind nao chegou.   ,ATRASO
+"No aplicativo consta entregue, mas não pedi esse prato.",PEDIDO_INCORRETO
+"gente, a cobrança nao está errada, mas o desconto sumiu",PAGAMENTO
+aff era para chegar às oito,ATRASO
+"Meu pedido de hoje: a comida estava boa, só esqueceram minha bebida.",ITEM_FALTANTE
+o refrigerante nao veio!!!,ITEM_FALTANTE
+Só para avisar: veio sem o molho.,ITEM_FALTANTE
+Só para avisar: parabéns pelo capricho.,ELOGIO
+a previsão mudou três vezes,ATRASO
+    o valor foi cobrado duas vezes.   ,PAGAMENTO
+Preciso de ajuda porque veio tudo fechado mas faltou o acompanhamento.,ITEM_FALTANTE
+"meu nome ta na embalagem, mas o conteúdo não é meu e isso me deixou bem chateada.",PEDIDO_INCORRETO
+    aff veio tudo certo e quentinho   ,ELOGIO
+o total está incorreto e isso me deixou bem chateada.,PAGAMENTO
+O ENTREGADOR FOI MUITO EDUCADO,ELOGIO
+já passou uma hora e nada do pdido,ATRASO
+o produto chegou amassado :(,QUALIDADE
+faltou um dos sanduíches,ITEM_FALTANTE
+Só para avisar: paguei e o aplicativo pede pagamento novamente.,PAGAMENTO
+meu pedido ainda não chegou alguém resolve?,ATRASO
+pedi vegetariano e chegou com carne.,PEDIDO_INCORRETO
+"    No aplicativo consta entregue, mas o lanche veio queimado.   ",QUALIDADE
+"Boa noite. meu nome está na embalagem, mas o conteúdo não é meu. Obrigada.",PEDIDO_INCORRETO
+faltou um dos sanduíches!!!,ITEM_FALTANTE
+Meu pedido de hoje: o valor foi cobrado duas vezes.,PAGAMENTO
+"    gente, pedido parado no aplicativo   ",ATRASO
+Só para avisar: pedi vegetariano e chegou com carne.,PEDIDO_INCORRETO
+"No aplicativo consta entregue, mas era para chegar às oito.",ATRASO
+Meu pedido de hoje: a comida chegou fria.,QUALIDADE
+    Boa noite. pedi tamanho grande e chegou pequeno. Obrigada.   ,PEDIDO_INCORRETO
+"Oi, veio tudo fechado mas faltou o acompanhamento, por favor.",ITEM_FALTANTE
+a comida chegou fria :(,QUALIDADE
+o arroz está duro :(,QUALIDADE
+Só para avisar: pedido parado no aplicativo.,ATRASO
+chegou rápido e estava maravilhoso alguém resolve?,ELOGIO
+"    gente, paguei e o aplicativo pede pagamento novamente   ",PAGAMENTO
+"não tenho reclamações, gostei bastante!!!",ELOGIO
+faltou a sobremesa,ITEM_FALTANTE
+o total ta incorreto!!!,PAGAMENTO
+o valor foi cobrado duas vezes :(,PAGAMENTO
+Só para avisar: recebi pizza de outro sabor.,PEDIDO_INCORRETO
+"Preciso de ajuda porque não faltou nada, porém a qualidade estava péssima.",QUALIDADE
+não enviaram a bebida :(,ITEM_FALTANTE
+o lanche veio queimado!!!,QUALIDADE
+    Boa noite. o estorno ainda nao caiu. Obrigada.   ,PAGAMENTO
+chegou rápido e estava maravilhoso :(,ELOGIO
+    Boa noite. estou esperando desde cedo. Obrigada.   ,ATRASO
+o lanche veio queimado e isso me deixou bem chateada.,QUALIDADE
+meu cartão recusou mas houve cobrança e isso me deixou bem chateada.,PAGAMENTO
+"Meu pedido de hoje: demorou bastante, mas pelo menos veio tudo certo.",ATRASO
+"gente, o valor foi cobrado duas vezes",PAGAMENTO
+"gente, nao pedi esse prato",PEDIDO_INCORRETO
+faltou um dos sanduíches e isso me deixou bem chateada.,ITEM_FALTANTE
+"a cobrança não ta errada, mas o desconto sumiu :(",PAGAMENTO
+"No aplicativo consta entregue, mas a cobrança não está errada, mas o desconto sumiu.",PAGAMENTO
+o total está incorreto,PAGAMENTO
+"No aplicativo consta entregue, mas faltou um dos sanduíches.",ITEM_FALTANTE
+"    gente, parabéns pelo capricho   ",ELOGIO
+"demorou um pouco, mas valeu a pena porque estava ótimo",ELOGIO
+o endereço está certo mas a sacola é errada,PEDIDO_INCORRETO
+Preciso de ajuda porque o estorno aind não caiu.,PAGAMENTO
+entrega excelente!!!,ELOGIO
+Boa noite. o cupom nao foi aplicado. Obrigada.,PAGAMENTO
+Só para avisar: não consigo finalizar o pix.,PAGAMENTO
+"meu nome está na embalagem, mas o conteúdo não é meu!!!",PEDIDO_INCORRETO
+já passou uma hora e nada do pedido!!!,ATRASO
+o estorno ainda nao caiu e isso me deixou bem chateada.,PAGAMENTO
+aff a carne parece crua,QUALIDADE
+Preciso de ajuda porque melhor pedido da semana.,ELOGIO
+"Boa noite. pedido perfeito, muito obrigada. Obrigada.",ELOGIO
+"pedido perfeito, muito obrigada.",ELOGIO
+o valor foi cobrado duas vezes.,PAGAMENTO
+recebi pizza de outro sabor alguém resolve?,PEDIDO_INCORRETO
+aff o entregador foi muito educado,ELOGIO
+o estorno ainda nao caiu!!!,PAGAMENTO
+"Preciso de ajuda porque não tenho reclamações, gostei bastante.",ELOGIO
+a embalagem vazou.,QUALIDADE
+a embalagem vazou alguém resolve?,QUALIDADE
+pedi vegetariano e chegou com carne alguém resolve?,PEDIDO_INCORRETO
+escolhi sem cebola e veio com cebola :(,PEDIDO_INCORRETO
+"Oi, não tenho reclamações, gostei bastante, por favor.",ELOGIO
+Meu pedido de hoje: veio tudo certo e quentinho.,ELOGIO
+"    gente, recebi só parte do pedido   ",ITEM_FALTANTE
+aff o lanche veio queimado,QUALIDADE
+a refeição veio com gosto estranho e isso me deixou bem chateada.,QUALIDADE
+HOUVE DÉBITO SEM CONFIRMAÇÃO DO PEDIDO,PAGAMENTO
+houve débito sem confirmação do pedido!!!,PAGAMENTO
+Preciso de ajuda porque houve débito sem confirmação do pedido.,PAGAMENTO
+recebi só parte do pedido alguém resolve?,ITEM_FALTANTE
+Boa noite. cadê meu pedido. Obrigada.,ATRASO
+    pedi vegetariano e chegou com carne.   ,PEDIDO_INCORRETO
+Só para avisar: o produto chegou amassado.,QUALIDADE
+meu pedido veio trocado alguém resolve?,PEDIDO_INCORRETO
+Meu pedido de hoje: parabéns pelo capricho.,ELOGIO
+    Preciso de ajuda porque veio sem o molho.   ,ITEM_FALTANTE
+Meu pedido de hoje: a previsão mudou três vezes.,ATRASO
+"MEU NOME ESTÁ NA EMBALAGEM, MAS O CONTEÚDO NÃO É MEU",PEDIDO_INCORRETO
+"não tenho reclamações, gostei bastante e isso me deixou bem chateada.",ELOGIO
+pedi tamanho grande e chegou pequeno e isso me deixou bem chateada.,PEDIDO_INCORRETO
+ENTREGA EXCELENTE,ELOGIO
+Só para avisar: a comida chegou fria.,QUALIDADE
+meu cartão recusou mas houve cobrança,PAGAMENTO
+"    Preciso de ajuda porque pedido perfeito, muito obrigada.   ",ELOGIO
+Meu pedido de hoje: paguei e o aplicativo pede pagamento novamente.,PAGAMENTO
+esqueceram minhas batatas,ITEM_FALTANTE
+pedido parado no aplicativo :(,ATRASO
+Meu pedido de hoje: pedi vegetariano e chegou com carne.,PEDIDO_INCORRETO
+Preciso de ajuda porque cadê o suco que pedi.,ITEM_FALTANTE
+"não faltou nada, porém a qualidade estava péssima e isso me deixou bem chateada.",QUALIDADE
+"chegou rápido, mas estava gelado :(",QUALIDADE
+veio tudo fechado mas faltou o acompanhamento!!!,ITEM_FALTANTE
+o produto chegou amassado alguém resolve?,QUALIDADE
+A REFEIÇÃO VEIO COM GOSTO ESTRANHO,QUALIDADE
+parabéns pelo capricho.,ELOGIO
+"gente, demorou um pouco, mas valeu a pena porque estava ótimo",ELOGIO
+Só para avisar: cadê meu pedido.,ATRASO
+    chegou rápido e estava maravilhoso.   ,ELOGIO
+aff adorei o atendimento,ELOGIO
+solicitei dois itens e vieram outros alguém resolve?,PEDIDO_INCORRETO
+"gente, esqueceram minhas batatas",ITEM_FALTANTE
+Só para avisar: meu pedido ainda nao chegou.,ATRASO
+"não foi cobrado errado, o problema é que o pedido não apareceu!!!",ATRASO
+Só para avisar: recebi só parte do pedido.,ITEM_FALTANTE
+cobraram uma taxa diferente,PAGAMENTO
+"não faltou nada, porém a qualidade estava péssima!!!",QUALIDADE
+"    No aplicativo consta entregue, mas mandaram o lanche de outra pessoa.   ",PEDIDO_INCORRETO
+"Oi, houve débito sem confirmação do pedido, por favor.",PAGAMENTO
+"No aplicativo consta entregue, mas demorou bastante, mas pelo menos veio tudo certo.",ATRASO
+a carne parece crua,QUALIDADE
+    nao enviaram a bebida.   ,ITEM_FALTANTE
+"aff a cobrança nao está errada, mas o desconto sumiu",PAGAMENTO
+    a comida chegou fria.   ,QUALIDADE
+era para chegar às oito,ATRASO
+mandaram o lanche de outra pessoa e isso me deixou bem chateada.,PEDIDO_INCORRETO
+"    No aplicativo consta entregue, mas adorei o atendimento.   ",ELOGIO
+Boa noite. solicitei dois itens e vieram outros. Obrigada.,PEDIDO_INCORRETO
+    Preciso de ajuda porque a embalagem vazou.   ,QUALIDADE
+pedido parado no aplicativo alguém resolve?,ATRASO
+"Boa noite. não faltou nada, porém a qualidade estava péssima. Obrigada.",QUALIDADE
+"pedido perfeito, muito obrigada alguém resolve?",ELOGIO
+Boa noite. melhor pedido da semana. Obrigada.,ELOGIO
+pedi tamanho grande e chegou pequeno!!!,PEDIDO_INCORRETO
+    Boa noite. o refrigerante nao veio. Obrigada.   ,ITEM_FALTANTE
+Só para avisar: nao enviaram a bebida.,ITEM_FALTANTE
+parabéns pelo capricho alguém resolve?,ELOGIO
+"    gente, recebi pizza de outro sabor   ",PEDIDO_INCORRETO
+"Oi, entrega excelente, por favor.",ELOGIO
+"a comida estava boa, só esqueceram minha bebida :(",ITEM_FALTANTE
+Meu pedido de hoje: pedido parado no aplicativo.,ATRASO
+não pedi esse prato :(,PEDIDO_INCORRETO
+o entregador foi muito educado,ELOGIO
+Boa noite. a embalagem vazou. Obrigada.,QUALIDADE
+cadê o suco que pedi.,ITEM_FALTANTE
+A CARNE PARECE CRUA,QUALIDADE
+chegou rápido e estava maravilhoso.,ELOGIO
+veio tudo certo e quentinho :(,ELOGIO
+Boa noite. cadê o suco que pedi. Obrigada.,ITEM_FALTANTE
+Boa noite. houve débito sem confirmação do pedido. Obrigada.,PAGAMENTO
+"gente, a previsão mudou três vezes",ATRASO
+melhor pedido da semana alguém resolve?,ELOGIO
+"Meu pedido de hoje: a cobrança nao está errada, mas o desconto sumiu.",PAGAMENTO
+aff faltou um dos sanduíches,ITEM_FALTANTE
+"No aplicativo consta entregue, mas esqueceram minhas batatas.",ITEM_FALTANTE
+"demorou bastante, mas pelo menos veio tudo certo",ATRASO
+"gente, demorou bastante, mas pelo menos veio tudo certo",ATRASO
+    Preciso de ajuda porque o entregador está demorando demais.   ,ATRASO
+Preciso de ajuda porque a refeição veio com gosto estranho.,QUALIDADE
+Só para avisar: melhor pedido da semana.,ELOGIO
+meu pedido ainda não chegou.,ATRASO
+paguei e o aplicativo pede pagamento novamente.,PAGAMENTO
+Preciso de ajuda porque entrega excelente.,ELOGIO
+"aff demorou bastante, mas pelo menos veio tudo certo",ATRASO
+"gente, a comida estava boa, só esqueceram minha bebida",ITEM_FALTANTE
+FALTOU UM DOS SANDUÍCHES,ITEM_FALTANTE
+Meu pedido de hoje: escolhi sem cebola e veio com cebola.,PEDIDO_INCORRETO
+solicitei dois itens e vieram outros.,PEDIDO_INCORRETO
+Boa noite. o entregador está demorando demais. Obrigada.,ATRASO
+estou esperando desde cedo!!!,ATRASO
+"gente, veio tudo certo e quentinho",ELOGIO

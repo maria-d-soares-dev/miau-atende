@@ -1,0 +1,54 @@
+mensagem,categoria_real
+não enviaram a bebida alguém resolve?,ITEM_FALTANTE
+pedi tamanho grande e chegou pequeno!!!,PEDIDO_INCORRETO
+meu pedido de hoje: pedido parado no aplicativo.,ATRASO
+"gente, recebi pizza de outro sabor",PEDIDO_INCORRETO
+"no aplicativo consta entregue, mas veio tudo certo e quentinho.",ELOGIO
+"oi, o refrigerante não veio, por favor.",ITEM_FALTANTE
+aff o total está incorreto,PAGAMENTO
+não enviaram a bebida :(,ITEM_FALTANTE
+o cupom não foi aplicado alguém resolve?,PAGAMENTO
+adorei o atendimento e isso me deixou bem chateada.,ELOGIO
+"no aplicativo consta entregue, mas o total está incorreto.",PAGAMENTO
+"oi, meu nome está na embalagem, mas o conteúdo não é meu, por favor.",PEDIDO_INCORRETO
+"no aplicativo consta entregue, mas meu cartão recusou mas houve cobrança.",PAGAMENTO
+"não faltou nada, porém a qualidade estava péssima e isso me deixou bem chateada.",QUALIDADE
+a carne parece crua,QUALIDADE
+aff veio tudo certo e quentinho,ELOGIO
+só para avisar: solicitei dois itens e vieram outros.,PEDIDO_INCORRETO
+"no aplicativo consta entregue, mas cobraram uma taxa diferente.",PAGAMENTO
+"demorou um pouco, mas valeu a pena porque estava ótimo :(",ELOGIO
+boa noite. meu pedido veio trocado. obrigada.,PEDIDO_INCORRETO
+"boa noite. não faltou nada, porém a qualidade estava péssima. obrigada.",QUALIDADE
+"no aplicativo consta entregue, mas o arroz está duro.",QUALIDADE
+"boa noite. pedido perfeito, muito obrigada. obrigada.",ELOGIO
+faltou um dos sanduíches!!!,ITEM_FALTANTE
+"no aplicativo consta entregue, mas demorou um pouco, mas valeu a pena porque estava ótimo.",ELOGIO
+"pedido perfeito, muito obrigada.",ELOGIO
+boa noite. veio tudo fechado mas faltou o acompanhamento. obrigada.,ITEM_FALTANTE
+meu pedido de hoje: recebi pizza de outro sabor.,PEDIDO_INCORRETO
+"no aplicativo consta entregue, mas era para chegar às oito.",ATRASO
+aff a previsão mudou três vezes,ATRASO
+aff nao pedi esse prato,PEDIDO_INCORRETO
+boa noite. estou esperando desde cedo. obrigada.,ATRASO
+a comida chegou fria alguém resolve?,QUALIDADE
+"não foi cobrado errado, o problema é que o pedido não apareceu!!!",ATRASO
+"não tenho reclamações, gostei bastante e isso me deixou bem chateada.",ELOGIO
+o refrigerante nao veio e isso me deixou bem chateada.,ITEM_FALTANTE
+estou esperando desde cedo,ATRASO
+paguei e o aplicativo pede pagamento novamente.,PAGAMENTO
+preciso de ajuda porque o refrigerante não veio.,ITEM_FALTANTE
+recebi pizza de outro sabor :(,PEDIDO_INCORRETO
+preciso de ajuda porque melhor pedido da semana.,ELOGIO
+o total está incorreto,PAGAMENTO
+veio tudo fechado mas faltou o acompanhamento!!!,ITEM_FALTANTE
+o arroz está duro :(,QUALIDADE
+a comida chegou fria.,QUALIDADE
+cadê meu pedido.,ATRASO
+"não faltou nada, porém a qualidade estava péssima",QUALIDADE
+"no aplicativo consta entregue, mas escolhi sem cebola e veio com cebola.",PEDIDO_INCORRETO
+aff já passou uma hora e nada do pedido,ATRASO
+"gente, a cobrança nao está errada, mas o desconto sumiu",PAGAMENTO
+o refrigerante nao veio!!!,ITEM_FALTANTE
+o pedido veio todo revirado.,QUALIDADE
+era para chegar às oito!!!,ATRASO
